@@ -8,7 +8,6 @@ website:
     right: # accepts right/left/center; you can also place items individually on the left, right, and center
       - href: index.qmd
         text: Home
-      - about.qmd
       - icon: github # add icons as navbar buttons
         href: https://rikada.github.io/rikada/
         target: _blank
