@@ -3,7 +3,7 @@
     "path": "~/GitHub/rikada/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "394892790",
     "contents": "",
     "dirty": false,
     "created": 1753199895030.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "10,12",
+        "cursorPosition": "2,53",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1753214579,
+    "lastKnownWriteTime": 1753216022,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1753214579690,
+    "last_content_update": 1753216022183,
     "read_only": false,
     "read_only_alternatives": []
 }
