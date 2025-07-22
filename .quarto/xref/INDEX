@@ -7,5 +7,8 @@
   },
   "projects.qmd": {
     "projects.html": "9942936a"
+  },
+  "projects/project_title.qmd": {
+    "project_title.html": "d682e8d5"
   }
 }
