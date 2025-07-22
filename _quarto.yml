@@ -17,3 +17,10 @@ format:
     theme: styles.scss
     mainfont: Ubuntu
     toc: true
+ 
+    # ~ additional YAML excluded for brevity ~
+links: 
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/RikkiAdams/
+      target: _blank
