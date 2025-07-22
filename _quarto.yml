@@ -1,8 +1,19 @@
+project:
+  type: website
+
 website:
-  title: "RikkiY"
+  title: "Rikki Adams"
   navbar:
     right:
-      - href: index.qmd
+      - icon: house
+        href: index.qmd
         text: Home
-      - href: projects.qmd
+      - icon: hammer
+        href: projects.qmd
         text: Projects
+
+format:
+  html:
+    theme: styles.scss
+    mainfont: Ubuntu
+    toc: true
