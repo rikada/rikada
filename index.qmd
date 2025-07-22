@@ -1,6 +1,5 @@
 ---
 title: "Rikki Adams"
-image: true
 toc: false
 about: 
   template: jolla 
