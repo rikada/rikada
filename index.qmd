@@ -1,6 +1,6 @@
 ---
 title: "Rikki Adams"
-image: ~Github/rikada
+image: ~/Github/rikada/rya_headshot.jpg
 toc: false
 about: 
   template: jolla 
@@ -10,7 +10,7 @@ about:
     - text: GitHub
       href: https://rikada.github.io/rikada/
     - text: Email
-      href: Rikki-Adams@omrf.org
+      href: mailto:Rikki-Adams@omrf.org
       
       
 ---
