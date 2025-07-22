@@ -1,5 +1,6 @@
 ---
 title: "Rikki Adams"
+image: Home/Github/rikada/rya_headshot1.jpg
 toc: false
 about:
   template: trestles
@@ -15,7 +16,7 @@ about:
 ::: {.column-page}
 
 ## Bio
-My name is Rikki Adams. Hi! My name is Rikki Adams. I am a graduate of the illustrious Langston University! There, I majored in Biology and participated in several different activities on campus. Currently, I am a Second-Year Graduate Student at OUHSC in Elizabeth Finn's Lab
+Hi! My name is Rikki Adams. I am a graduate of the illustrious Langston University! There, I majored in Biology and participated in several different activities on campus. Currently, I am a Second-Year Graduate Student at OUHSC in Elizabeth Finn's Lab
 at OMRF. I have broad interests in science, spanning from plant pathology to cancer cell biology! Outside of science, I am an avid reader and a musician that plays 3 instruments :)
 
 ## Research Goals
