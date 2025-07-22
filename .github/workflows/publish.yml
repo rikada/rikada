@@ -27,7 +27,6 @@ jobs:
             any::rmarkdown
             any::tidyverse
             any::tidymodels
-            any::GGally
             any::ggstats
             any::cowplot
             any::lme4
