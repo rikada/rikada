@@ -1,10 +1,12 @@
 ---
 title: "Rikki Adams"
-image: ~/GitHub/rikada/rya_headshot1.jpg
+image: true
 toc: false
-about:
-  template: trestles
-  links:
+about: 
+  template: jolla 
+  image-shape: round
+  image-width: 17em
+  links: # create buttons
     - text: GitHub
       href: https://rikada.github.io/rikada/
     - text: Email
