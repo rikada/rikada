@@ -3,7 +3,7 @@
     "path": "~/GitHub/rikada/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "3661184544",
+    "hash": "835240150",
     "contents": "",
     "dirty": false,
     "created": 1753204000780.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "25,20",
+        "cursorPosition": "10,17",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1753211689,
+    "lastKnownWriteTime": 1753215074,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1753211689409,
+    "last_content_update": 1753215074851,
     "read_only": false,
     "read_only_alternatives": []
 }
