@@ -7,10 +7,13 @@ website:
   navbar:
     right: # accepts right/left/center; you can also place items individually on the left, right, and center
       - href: index.qmd
-        text: Home
+        text: Home!
       - icon: github # add icons as navbar buttons
         href: https://rikada.github.io/rikada/
         target: _blank
+      - href: C.V._rya_11.19.23.docx.pdf
+        text: C.V.!
+    
 
 # additional metadata excluded for brevity ~
 
