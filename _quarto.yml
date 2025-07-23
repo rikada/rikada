@@ -21,6 +21,6 @@ format:
   html:
     theme: 
       - cosmo
-      - styles.scss
+      - styles.css
     toc: false
     page-layout: full
