@@ -12,10 +12,12 @@ website:
         href: https://rikada.github.io/rikada/
         target: _blank
 
+# additional metadata excluded for brevity ~
+
 format:
   html:
-     theme: 
-    - morph
-    - styles.css
-    toc: true
+    theme: 
+      - cosmo
+      - styles.scss
+    toc: false
     page-layout: full
