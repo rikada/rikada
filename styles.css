@@ -9,13 +9,13 @@ $light-purple: ##b695b8;
 $black: #151617;
 
 // Base document colors
-$navbar-bg: $dark-green; // navbar
-$navbar-fg: $cream; // navbar foreground elements
-$navbar-hl: $light-green; // highlight color when hovering over navbar links
-$body-bg: $cream; // page background 
-$body-color: $black; // page text 
-$footer-bg: $cream; // footer 
+$navbar-bg: $dark-green; 
+$navbar-fg: $cream; 
+$navbar-hl: $light-green; 
+$body-bg: $cream;
+$body-color: $black; 
+$footer-bg: $cream; 
 
 // Inline code
-$code-bg: $cream; // inline code background color
-$code-color: $light-orange; // inline code text color
+$code-bg: $cream; 
+$code-color: $light-orange;
