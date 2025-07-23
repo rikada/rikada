@@ -1,6 +1,6 @@
 ---
 title: "Rikki Adams"
-image: file:///C:~Documents/GitHub/rikada/rya_headshot1.jpg
+image: "file:///C:~Documents/GitHub/rikada/rya_headshot1.jpg"
 toc: false
 about: 
   template: jolla 
