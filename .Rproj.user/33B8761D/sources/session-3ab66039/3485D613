@@ -3,7 +3,7 @@
     "path": "~/GitHub/rikada/projects/project_title.qmd",
     "project_path": "projects/project_title.qmd",
     "type": "quarto_markdown",
-    "hash": "541575124",
+    "hash": "3494727894",
     "contents": "",
     "dirty": false,
     "created": 1753369985846.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,10",
-        "scrollLine": "0"
+        "cursorPosition": "78,3",
+        "scrollLine": "65"
     },
     "folds": "",
-    "lastKnownWriteTime": 1753370295,
+    "lastKnownWriteTime": 1753370521,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1753370295324,
+    "last_content_update": 1753370521947,
     "read_only": false,
     "read_only_alternatives": []
 }
