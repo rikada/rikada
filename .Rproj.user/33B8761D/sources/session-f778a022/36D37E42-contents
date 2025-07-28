@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home!
       - icon: github # add icons as navbar buttons
-        href: https://rikada.github.io/rikada/
+        href: https://github.com/rikada/rikada
         target: _blank
       - href: C.V._rya_11.19.23.docx.pdf
         text: C.V.!
