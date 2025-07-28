@@ -7,9 +7,9 @@ about:
   image-shape: round
   image-width: 17em
   links: # create buttons
-    - icon: GitHub
-      text: GitHub
-      href: https://rikada.github.io/rikada/
+    - icon: LinkedIn
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rikki-adams-b-s-8b4052240/
     - icon: Mail
       text: Email
       href: mailto:Rikki-Adams@omrf.org
