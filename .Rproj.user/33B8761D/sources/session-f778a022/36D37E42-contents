@@ -22,7 +22,7 @@ website:
 format:
   html:
     theme: 
-      - cosmo
+      - sketchy
       - styles.scss
     toc: true
     page-layout: full
