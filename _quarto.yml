@@ -23,6 +23,6 @@ format:
   html:
     theme: 
       - sketchy
-      - _variables.scss
+      - _variables.css
     toc: true
     page-layout: full
