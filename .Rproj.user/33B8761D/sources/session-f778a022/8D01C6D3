@@ -1,9 +1,9 @@
 {
     "id": "8D01C6D3",
-    "path": "~/GitHub/rikada/_variables.css",
-    "project_path": "_variables.css",
+    "path": "~/GitHub/rikada/_variables.scss",
+    "project_path": "_variables.scss",
     "type": "scss",
-    "hash": "2227837306",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1753733679310.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,23",
+        "cursorPosition": "5,16",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1753734977,
+    "lastKnownWriteTime": 1753735298,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1753734977,
+    "last_content_update": 1753735298,
     "read_only": false,
     "read_only_alternatives": []
 }
