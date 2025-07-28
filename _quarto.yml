@@ -22,6 +22,6 @@ website:
 format:
   html:
     theme: 
-      - cosmo
+      - sketchy
     toc: true
     page-layout: full
