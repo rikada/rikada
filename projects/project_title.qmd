@@ -1,5 +1,6 @@
 ---
 title: "Heritable Variation in Genome Organization"
 editor: visual
+image: MAX_CS3_g3.czi-CS!_g3#4.png
 ---
 
