@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Rikki Adams"
+  navbar:
+    right: # accepts right/left/center; you can also place items individually on the left, right, and center
+      - href: index.qmd
+        text: Home!
+      - icon: github # add icons as navbar buttons
+        href: https://github.com/rikada/rikada
+        target: _blank
+      - href: C.V._rya_11.19.23.docx.pdf
+        text: C.V.!
+      - href: projects.qmd
+        text: Projects!
+    
+
+# additional metadata excluded for brevity ~
+
+format:
+  html:
+    theme: 
+      - sketchy
+      - styles.css
+    toc: true
+    page-layout: full
