@@ -2,8 +2,4 @@
 title: "Heritable Variation in Genome Organization"
 editor: visual
 image: FISHexample.png
-  about: 
-   template: jolla
-    image-shape: square
-    image-width: 17 em
 ---
