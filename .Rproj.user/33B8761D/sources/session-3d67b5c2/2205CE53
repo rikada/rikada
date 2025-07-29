@@ -3,7 +3,7 @@
     "path": "~/GitHub/rikada/styles.css",
     "project_path": "styles.css",
     "type": "css",
-    "hash": "0",
+    "hash": "3003267252",
     "contents": "",
     "dirty": false,
     "created": 1753733624465.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "20,47",
+        "cursorPosition": "18,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1753720540,
+    "lastKnownWriteTime": 1753755236,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1753720540,
+    "last_content_update": 1753755236542,
     "read_only": false,
     "read_only_alternatives": []
 }
