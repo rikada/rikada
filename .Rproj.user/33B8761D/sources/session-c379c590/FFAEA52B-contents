@@ -15,7 +15,8 @@ website:
         text: C.V.!
       - href: projects.qmd
         text: Projects!
-    
+      - href: QUOTE.jpg
+        text: Publications!
 
 # additional metadata excluded for brevity ~
 
