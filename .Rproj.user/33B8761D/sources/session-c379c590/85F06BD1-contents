@@ -15,7 +15,7 @@ $navbar-hl: $light-green; // highlight color when hovering over navbar links
 $body-bg: $cream; // page background 
 $body-color: $black; // page text 
 $footer-bg: $cream; // footer 
-$footer-button: $dark-green; // $navbar-buttons
+$footer-button: $dark-green; // $footer-buttons
 
 
 // Inline code
