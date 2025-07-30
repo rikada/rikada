@@ -1,0 +1,27 @@
+probe_ID	chromatin_type	LB1
+C1P-2.4	tech ch	neg
+C1P-12.7	tech ch	pos
+C1P-22.2	tech ch	neg
+C1P-73.4	H3K9me3	pos
+C1P-106.7	H3K9me3	pos
+C1P-118.4	H3K9me3	pos
+C2P-9.3	chr2	neg
+C1P-8.0	H3K9me3	neg
+C1P-40.4	H3K9me3	neg
+C1P-113.4	H3K9me3	neg
+C1P-75.4	H3K9me2	pos
+C1P-88.2	H3K9me2	pos
+C1P-96.1	H3K9me2	pos
+C1P-76.8	H3K9me2	pos
+C1P-21.0	H3K9me2	neg
+C1P-43.8	H3K9me2	neg
+C1P-67.3	H3K9me2	neg
+C1P-94.1	H3K9me2	neg
+C1P-33.9	H3K27me3	pos
+C1P-69.2	H3K27me3	pos
+C1P-107.9	H3K27me3	pos
+C1P-13.3	H3K27me3	pos
+C1P-7.5	H3K27me3	neg
+C1P-44.6	H3K27me3	neg
+C1P-109.4	H3K27me3	neg
+C1P-24.2	H3K27me3	neg
