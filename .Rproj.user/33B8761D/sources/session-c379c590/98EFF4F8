@@ -3,7 +3,7 @@
     "path": "~/GitHub/rikada/_variables.scss",
     "project_path": "_variables.scss",
     "type": "scss",
-    "hash": "1796184017",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1753809754103.0,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1753907245,
+    "lastKnownWriteTime": 1753908266,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1753907245411,
+    "last_content_update": 1753908266892,
     "read_only": false,
     "read_only_alternatives": []
 }
