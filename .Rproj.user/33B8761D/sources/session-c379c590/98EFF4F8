@@ -3,24 +3,24 @@
     "path": "~/GitHub/rikada/_variables.scss",
     "project_path": "_variables.scss",
     "type": "scss",
-    "hash": "0",
+    "hash": "2964152978",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1753809754103.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "18,0",
-        "scrollLine": "2"
+        "cursorPosition": "16,30",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1753754898,
+    "lastKnownWriteTime": 1753907013,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1753810344218,
+    "last_content_update": 1753907013763,
     "read_only": false,
     "read_only_alternatives": []
 }
