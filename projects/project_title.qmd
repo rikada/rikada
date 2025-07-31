@@ -1,8 +1,5 @@
 ---
 title: "Heritable Variation in Genome Organization"
 editor: visual
-toc: false
-about: 
-  image: FISHexample.png
-
+image: FISHexample.png
 ---
