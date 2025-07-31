@@ -17,8 +17,9 @@ date-format: "MM-DD-YYYY"
 ::: {#Projects-listings}
 
 ## What do I do in the lab?
+
+![DNA FISH workflow](C:\Home\GitHub\rikada)
                                             
-![](FISHworkflow.jpg){fig-align = "center"}
 My project, Heritable Variation in Genome Organization, investigates heterochromatin organization, intra-tumor heterogeneity, and cancer. The human genome is spatially organized within the nucleus, and heterochromatin is kept separate from euchromatin. Genome organization plays a role in cell function and is disrupted in cancer cells. Previous research has shown that low levels of linker histone H1, which is associated with heterochromatin, are highly correlated with cancer cell proliferation and cancer stem cell fate, linking heterochromatin specification to intra-tumor heterogeneity. I seek to understand the role of genome organization in intra-tumor heterogeneity. I use HCT-116 human colorectal carcinoma cells to investigate the variability of genome organization in cancer cells to determine whether genome organization is a variable and heritable trait in cancer cells. I sparsely plated the cell line to obtain colonies from single cells to investigate heritability. I performed DNA fluorescence in situ hybridization, (FISH), and measured heterogeneity by comparing distance distributions between colonies and calculating the coefficients of variation in the pooled population. As expected, facultative heterochromatin marked by trimethylation of lysine 27 on histone 3 exhibited more variability in cancer cells than in normal immortalized cells (IMR90). Furthermore, I identified specific probe pairs in cancer cells that exhibit heritable variation, which was not observed in normal cells. While heterochromatin organization appeared heritable after 10 days of colony growth, subcloning revealed that heterochromatin organization was not heritable after a month of continuous culture. We conclude that heterochromatin organization is transiently heritable in HCT116 colorectal carcinoma cells. Future experiments will test the duration of this heritability and its generalizability across different cancer cell lines.
 
 
